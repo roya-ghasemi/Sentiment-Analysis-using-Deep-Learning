@@ -129,4 +129,6 @@ jupyter notebook sentiment_analysis.ipynb
 
 ## About
 This project was developed as a hands-on approach to learning sentiment analysis with modern deep learning tools. It can serve as a baseline for more advanced applications involving text classification or opinion mining.
- ![Confusion Matrix](output.png)
+<p align="center">
+  <img src="output.png" width="400" height="400" alt="Confusion Matrix">
+</p>
